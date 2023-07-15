@@ -1,9 +1,5 @@
-#-- Neofetch
-#neofetch
+#Neofetch
+neofetch --ascii ~/.config/neofetch/skull
 
-#-- Starship prompt
+#Starship prompt
 eval "$(starship init zsh)"
-
-#-- Ghosts
-~/.scripts/ghost
-
